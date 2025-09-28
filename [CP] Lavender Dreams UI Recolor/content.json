@@ -79,7 +79,7 @@
             "LogName":"TitleButtons",
             "Action": "EditImage",
             "Target": "Minigames/TitleButtons",
-            "FromFile": "assets/{{Target}}_{{language}}.png"
+            "FromFile": "assets/{{Target}}_{{Language}}.png"
         },
         {
             "LogName":"Kiwi Cameo",
